@@ -1,1 +1,1 @@
-# Amazon-Page-Clone
+Welcome to the Amazon Clone project repository! This is a simple yet functional implementation of the Amazon website's front-end using HTML and CSS. It serves as a hands-on project for web development enthusiasts to practice their HTML and CSS skills by replicating the visual elements and layout of the popular e-commerce platform.
