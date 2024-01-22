@@ -161,3 +161,144 @@
     font-size: 14px;
     font-weight: bold;
 }
+
+.secpanle{
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    /* justify-content: space-evenly; */
+}
+
+
+.option-secpanel{
+    width: 70%;
+}
+.option-secpanel p{
+    display: inline;
+    margin-left: 20px;
+}
+
+.first-secpanel{
+    margin-left: 20px;
+    display: flex;
+}
+
+.first-secpanel p{
+    padding-left: 6px;
+}
+
+
+.option-secpanel:hover{
+    cursor: pointer;
+}
+
+.first-secpanel:hover{
+    cursor: pointer;
+}
+
+.hero-section{
+    background-image: url(/Amazon-Page-Clone/images/hero_image.jpg);
+    height: 400px;
+    background-size: cover;
+}
+
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e2e2;
+}
+
+.box{
+    height: 380px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+}
+
+.box:hover{
+    cursor: pointer;
+}
+
+.bk-image{
+    height: 300px;
+    margin-top: 15px;
+}
+
+.box-content{
+    margin: 10px;
+}
+
+.box-content a{
+    color: rgb(57, 57, 179);
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+.foot-panel1{
+    background-color: #37475a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    color: white;
+    font-size: 13px;
+}
+
+footer{
+    margin-top: 15px;
+}
+.foot-panel1:hover{
+    background-color: #222e3b;  
+    cursor: pointer; 
+}
+
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    margin-top: 70px;
+}
+
+ul p{
+    font-weight: bold;
+    padding-top: 12px;
+}
+ul a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.foot-panel3{
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+}
+
+.pages{
+    font-size: 0.7rem;
+    text-align: center;
+    padding-top: 25px;
+}
+.copyright{
+    font-size: 0.7rem;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.pages a{
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
